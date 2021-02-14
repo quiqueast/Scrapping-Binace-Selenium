@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'JLPlata'
+__author__ = 'Edder'
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
